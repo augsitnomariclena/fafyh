@@ -7,13 +7,13 @@
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyATeo2YW5kWM0ZuKloEyka48umFfCxAfoY",
-  authDomain: "wafgystras.firebaseapp.com",
-  projectId: "wafgystras",
-  storageBucket: "wafgystras.firebasestorage.app",
-  messagingSenderId: "403526292761",
-  appId: "1:403526292761:web:dff25f069e2e2e6b006188",
-  measurementId: "G-7NM8ZKY8JS"
+  apiKey: "AIzaSyDuNQPIXHmUyIRcsoDSPNx8Bqh6XyRZudQ",
+  authDomain: "halymseko.firebaseapp.com",
+  projectId: "halymseko",
+  storageBucket: "halymseko.firebasestorage.app",
+  messagingSenderId: "135895574937",
+  appId: "1:135895574937:web:64bfa0638e5320c335cb08",
+  measurementId: "G-8F9VE9XPVY"
 };
 
 // Initialize Firebase
